@@ -1,12 +1,13 @@
-Hello World
+## Hello World
+
 ShreyaToken This Solidity program is an ERC-20 token contract named "ShreyaToken". It demonstrates the basic functionality of the ERC-20 token standard, including minting, transferring, and burning tokens. This program is designed for those who are new to Solidity and ERC-20 token development on the Ethereum blockchain.
 
-Description
+## Description
 The ShreyaToken contract is a smart contract written in Solidity for the Ethereum blockchain. It implements an ERC-20 token with the following features:
 
 Minting Tokens: Upon deployment, 100 SHK tokens are minted to the contract's address. Token Transfer: The admin can transfer tokens from the contract's address to a recipient. Token Burning: Any user can burn their tokens, reducing the total supply. This contract demonstrates the use of OpenZeppelin's ERC-20 implementation, providing a secure and standard way to create tokens. It can serve as a foundation for more complex projects.
 
-Getting Started
+## Getting Started
 Executing program To run this program, you will need to use Remix, an online Solidity IDE. Follow these steps to get started:
 
 Visit Remix: Go to https://remix.ethereum.org/. Create a New File: Click on the "+" icon in the left-hand sidebar to create a new file. Save the File: Save the file with a .sol extension (e.g., SrishtiToken.sol). Copy and Paste Code: Copy and paste the following code into the new file:
@@ -49,7 +50,7 @@ Click on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select th
 
 Minting Tokens: Upon deployment, 100 SHK tokens are minted to the contract address. Creating Tokens: Call the createTokens function with the recipient address and quantity to transfer tokens from the contract address to the recipient. This can only be done by the admin. Destroying Tokens: Call the destroyTokens function with the amount to burn tokens from the caller's address.
 
-Authors
+## Authors
  amika7701@gmail.com
-License
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
