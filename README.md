@@ -1,6 +1,6 @@
 ## Hello World
 
-AmikaToken This Solidity program is an ERC-20 token contract named "ShreyaToken". It demonstrates the basic functionality of the ERC-20 token standard, including minting, transferring, and burning tokens. This program is designed for those who are new to Solidity and ERC-20 token development on the Ethereum blockchain.
+AmikaToken This Solidity program is an ERC-20 token contract named "AmikaToken". It demonstrates the basic functionality of the ERC-20 token standard, including minting, transferring, and burning tokens. This program is designed for those who are new to Solidity and ERC-20 token development on the Ethereum blockchain.
 
 ## Description
 The AmikaToken contract is a smart contract written in Solidity for the Ethereum blockchain. It implements an ERC-20 token with the following features:
