@@ -1,6 +1,6 @@
 ## Hello World
 
-AmikaToken This Solidity program is an ERC-20 token contract named "ShreyaToken". It demonstrates the basic functionality of the ERC-20 token standard, including minting, transferring, and burning tokens. This program is designed for those who are new to Solidity and ERC-20 token development on the Ethereum blockchain.
+AmikaToken This Solidity program is an ERC-20 token contract named "AmikaToken". It demonstrates the basic functionality of the ERC-20 token standard, including minting, transferring, and burning tokens. This program is designed for those who are new to Solidity and ERC-20 token development on the Ethereum blockchain.
 
 
 ## Description
@@ -53,7 +53,7 @@ Click on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select th
 Minting Tokens: Upon deployment, 100 SHK tokens are minted to the contract address. Creating Tokens: Call the createTokens function with the recipient address and quantity to transfer tokens from the contract address to the recipient. This can only be done by the admin. Destroying Tokens: Call the destroyTokens function with the amount to burn tokens from the caller's address.
 ## Authors
 
- amika7701@gmail.com
+Amika amika7701@gmail.com
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
